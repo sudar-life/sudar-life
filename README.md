@@ -5,7 +5,11 @@
 > I'm not super good at development but I'm always trying to work for good performance.
 
  - `개발하는남자` <a href="https://sudarlife.tistory.com/">블로그</a> 
- - `개발하는남자` <a href="https://www.youtube.com/channel/UCbMGBIayK26L4VaFrs5jyBw">유튜브</a> 
+ - `개발하는남자` <a href="https://www.youtube.com/channel/UCbMGBIayK26L4VaFrs5jyBw">유튜브</a>
+
+### flutter game 
+- snake [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsudar-life.github.io%2Fgame%2Fsnake%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- vampire [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsudar-life.github.io%2Fgame%2Fvampire%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![sudarlife's github stats](https://github-readme-stats.vercel.app/api?username=sudar-life&count_private=true&show_icons=true&theme=Gradient) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudar-life&layout=compact)
 * * *
