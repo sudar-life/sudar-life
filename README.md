@@ -13,7 +13,8 @@
 
 ### flutter game 
 - snake [play](https://sudar-life.github.io/game/snake/#/)
-- vampire [play](https://sudar-life.github.io/game/vampire/#/)
+- vampire [play](https://sudar-life.github.io/game/vampire/)
+
 
 ![sudarlife's github stats](https://github-readme-stats.vercel.app/api?username=sudar-life&count_private=true&show_icons=true&theme=Gradient) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudar-life&layout=compact)
 * * *
