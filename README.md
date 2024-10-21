@@ -9,6 +9,8 @@
 
 ### flutter book
 - 📕개발하는남자의 핸즈온 플러터 [yes24](https://www.yes24.com/Product/Goods/129374923),[교보문고](https://product.kyobobook.co.kr/detail/S000213880372)
+- 💻인프런 [Bloc강의](https://www.inflearn.com/course/%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%EB%B8%94%EB%9D%BD-%EB%A7%88%EC%8A%A4%ED%84%B0%EC%BD%94%EC%8A%A4)
+- 💻인프런 [Bloc응용강의](https://www.inflearn.com/course/bloc-%EC%B1%85%EB%A6%AC%EB%B7%B0%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%A4%91%EA%B8%89)
 
 
 ### flutter game 
